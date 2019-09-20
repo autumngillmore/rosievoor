@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaechaegee.atelierhistoirendg.ca/sitemap.xml
